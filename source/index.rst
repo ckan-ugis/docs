@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Добро пожаловать на страницу документации проекта CKAN-UGIS!
+Добро пожаловать на страницу документации проекта CKAN-UGIS! test test
 =====================================
 
 Содержание:
