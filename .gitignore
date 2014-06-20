@@ -1,0 +1,6 @@
+﻿# directories
+build
+.git
+
+#files
+make.bat
