@@ -10,6 +10,9 @@
 
 .. toctree::
    :maxdepth: 2
+   
+   changes
+   todo
 
 
 
