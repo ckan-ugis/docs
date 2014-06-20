@@ -1,9 +1,10 @@
-Описание изменений:
+п»їРћРїРёСЃР°РЅРёРµ РёР·РјРµРЅРµРЅРёР№:
  ====================
- 
- Обновление CKAN
- --------------------------
-С версии 2.0.3 до версии 2.2
+ РћР±РЅРѕРІР»РµРЅРёРµ CKAN
+ --------------------------------
+ РЎ РІРµСЂСЃРёРё 2.0.3 РґРѕ РІРµСЂСЃРёРё 2.2
 http://docs.ckan.org/en/latest/maintaining/upgrading/index.html#upgrading
 
-paster db dump --config=/etc/ckan/default/production.ini ugis_ckan_database.pg_dump - заменил development.ini на production.ini т.к. изначально установлена production версия CKAN (из бинарников).
+.. code-block::
+paster db dump --config=/etc/ckan/default/production.ini ugis_ckan_database.pg_dump 
+\- Р·Р°РјРµРЅРёР» development.ini РЅР° production.ini С‚.Рє. РёР·РЅР°С‡Р°Р»СЊРЅРѕ СѓСЃС‚Р°РЅРѕРІР»РµРЅР° production РІРµСЂСЃРёСЏ CKAN (РёР· Р±РёРЅР°СЂРЅРёРєРѕРІ).
