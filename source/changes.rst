@@ -3,6 +3,7 @@
 
  Обновление CKAN
 ============================
+
 С версии 2.0.3 до версии 2.2
 
 http://docs.ckan.org/en/latest/maintaining/upgrading/index.html
