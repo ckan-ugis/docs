@@ -20,3 +20,13 @@ http://docs.ckan.org/en/latest/maintaining/upgrading/index.html
 	/usr/lib/ckan/default/bin/paster db dump --config=/etc/ckan/default/production.ini ugis_ckan_database.pg_dump 
 	
 \- заменил development.ini на production.ini т.к. изначально установлена production версия CKAN (из бинарников).
+
+
+NB!
+
+Most errors with paster commands can be solved by remembering to activate your virtual environment and change to the ckan directory before running the command:
+
+.. code-block:: none 
+
+	. /usr/lib/ckan/default/bin/activate
+	cd /usr/lib/ckan/default/src/ckan
