@@ -45,6 +45,7 @@ ckan.recaptcha.publickey
 The public key for your Recaptcha account, for example:
 
 .. code-block:: none 
+
 	ckan.recaptcha.publickey = 6Lc...-KLc
 
 To get a Recaptcha account, sign up at: http://www.google.com/recaptcha
@@ -55,6 +56,7 @@ ckan.recaptcha.privatekey
 The private key for your Recaptcha account, for example:
 
 .. code-block:: none 
+
 	ckan.recaptcha.privatekey = 6Lc...-jP
 
 Setting both ckan.recaptcha.publickey and ckan.recaptcha.privatekey adds captcha to the user registration form. This has been effective at preventing bots registering users and creating spam packages.
