@@ -25,7 +25,7 @@ http://docs.ckan.org/en/latest/maintaining/upgrading/index.html
 \- заменил development.ini на production.ini т.к. изначально установлена production версия CKAN (из бинарников).
 
 
-NB!
+.. note::
 
 Most errors with paster commands can be solved by remembering to activate your virtual environment and change to the ckan directory before running the command:
 
