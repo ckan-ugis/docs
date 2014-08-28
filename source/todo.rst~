@@ -2,14 +2,14 @@
 *************************
 Включить загрузку
 ------------------------------------
-    * datastore
+	* datastore
 Безопасность
 ------------------------
-    * hide registration
-    * captcha
+	* hide registration
+	* captcha
 
 Разное
 ----------------------
-    * http://data.gov.uk/blog/integrating-ckan-and-drupal
-    * https://github.com/GSA/data.gov
-    
+	* http://data.gov.uk/blog/integrating-ckan-and-drupal
+	* https://github.com/GSA/data.gov
+	
